@@ -55,10 +55,11 @@ body {
   .topnav a.icon {
     float: right;
     display: block;
+    font-size: 17px;
   }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 800px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute
