@@ -27,7 +27,7 @@
     </style>
 </head>
 <body>
-  <div class="latcontainer">
+  <div class="latecontainer">
       <div class="latehead">Latest Info</div>
       <div class="latebody">
           jdcjsdfhjashdjashdjashdj
