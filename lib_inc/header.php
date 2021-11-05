@@ -74,10 +74,7 @@ body {
   <a href="#contact">Contect us</a>
   <a href="#about">About us</a>
    <a href="#about">Login & Signup</a>
-    <a href="#about">Homework</a>
-     <a href="#about">Examination</a>
-      <a href="#about">Attendance</a>
-       <a href="#about">Fees Management</a>
+    
         <a href="#about">Privacy Policy</a>
          
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
