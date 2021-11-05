@@ -42,8 +42,14 @@ body {
 .topnav .icon {
   display: none;
 }
-
 @media screen and (max-width: 900px) {
+  .topnav a{
+    font-size: 12px;
+    padding: 7px 9px;
+  }
+}
+
+@media screen and (max-width: 800px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
