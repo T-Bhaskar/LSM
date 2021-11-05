@@ -43,7 +43,7 @@ body {
   display: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -51,7 +51,7 @@ body {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
@@ -69,15 +69,16 @@ body {
 <body>
 
 <div class="topnav" id="myTopnav">
-  <center>
   <a href="#home" class="active">Home</a>
   <a href="#news">News</a>
-  <a href="#contact">Contact us</a>
+  <a href="#contact">Contect us</a>
   <a href="#about">About us</a>
-   <a href="#about">Login</a>
-</center>
-    
-        
+   <a href="#about">Login & Signup</a>
+    <a href="#about">Homework</a>
+     <a href="#about">Examination</a>
+      <a href="#about">Attendance</a>
+       <a href="#about">Fees Management</a>
+        <a href="#about">Privacy Policy</a>
          
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
