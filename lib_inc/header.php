@@ -45,6 +45,7 @@ body {
 @media screen and (max-width: 900px) {
   .topnav a{
     font-size: 12px;
+    font-weight : 10px;
     padding: 7px 9px;
   }
 }
