@@ -69,13 +69,15 @@ body {
 <body>
 
 <div class="topnav" id="myTopnav">
+  <center>
   <a href="#home" class="active">Home</a>
   <a href="#news">News</a>
-  <a href="#contact">Contect us</a>
+  <a href="#contact">Contact us</a>
   <a href="#about">About us</a>
-   <a href="#about">Login & Signup</a>
+   <a href="#about">Login</a>
+</center>
     
-        <a href="#about">Privacy Policy</a>
+        
          
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
