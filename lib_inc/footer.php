@@ -13,23 +13,22 @@
    <div class="content">
      <div class="left box">
        <div class="upper">
-         <div class="topic">Toper us</div>
-         <p>CodingLab is a channel where you can learn HTML,
-         CSS, and also JavaScript along with creative CSS Animations and Effects.</p>
+         <div class="topic">About us</div>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis provident quod odio facere ab. Magni aliquid magnam est voluptatum ipsa.</p>
        </div>
        <div class="lower">
          <div class="topic">Contact us</div>
          <div class="phone">
-           <a href="#"><i class="fas fa-phone-volume"></i>+007 9089 6767</a>
+           <a href="#"><i class="fas fa-phone-volume"></i>+91 1234567890</a>
          </div>
          <div class="email">
-           <a href="#"><i class="fas fa-envelope"></i>abc@gmail.com</a>
+           <a href="#"><i class="fas fa-envelope"></i>bhaskartiwari258@@gmail.com</a>
          </div>
        </div>
      </div>
      <div class="middle box">
        <div class="topic">Our Services</div>
-       <div><a href="#">Toper Us</a></div>
+       <div><a href="#">About Us</a></div>
        <div><a href="#">Privacy Policy</a></a></div>
        <div><a href="#">Contact Us</a></div>
        <div><a href="#">Contact To devloper</a></div>
