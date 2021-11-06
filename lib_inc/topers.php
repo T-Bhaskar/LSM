@@ -71,6 +71,7 @@
       <div class="toperhead"><center><h3>Academic Topers</h3></center></div>
       
       <div class="toperbody">
+          <center>
           <div class="topercard">
               <div class="toperphoto"></div>
               <div class="topername"></div>
@@ -125,6 +126,7 @@
               
               
           </div>
+</center>
       </div>
 
   </div>  
