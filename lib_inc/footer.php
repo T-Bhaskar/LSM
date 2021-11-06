@@ -13,7 +13,7 @@
    <div class="content">
      <div class="left box">
        <div class="upper">
-         <div class="topic">About us</div>
+         <div class="topic">Toper us</div>
          <p>CodingLab is a channel where you can learn HTML,
          CSS, and also JavaScript along with creative CSS Animations and Effects.</p>
        </div>
@@ -29,7 +29,7 @@
      </div>
      <div class="middle box">
        <div class="topic">Our Services</div>
-       <div><a href="#">About Us</a></div>
+       <div><a href="#">Toper Us</a></div>
        <div><a href="#">Privacy Policy</a></a></div>
        <div><a href="#">Contact Us</a></div>
        <div><a href="#">Contact To devloper</a></div>

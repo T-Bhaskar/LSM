@@ -5,19 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        .latecontainer{
+         .latecontainer{
             position: relative;
-            margin-top:15px;
+            margin-top:55px;
             margin-left: 10%;
             margin-right: 10%;
-            border: 1px solid;
+            
   padding: 10px;
-  box-shadow: 5px 10px blue;
+  /* box-shadow: 5px 10px blue; */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.2s;
 
+        }
+        .latecontainer :hover{
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+            background-color: blue;
+            color: #fff;
         }
         .latecontainer .latehead{
             height:40px;
-            wudth: 100%;
+            width: 100%;
             font-size: 20px;
             background-color:blue;
             color:#fff;
@@ -33,8 +40,8 @@
         .latecontainer .latebody {
             width: 100%;
             height: 300px;
-            background-color:red;
-            color:#fff;
+            background-color:#fff;
+            color:black;
             padding: 10px;
             overflow:auto;
             margin-top:5px;
@@ -44,6 +51,13 @@
         .latecontainer .latebody latebodycontent{
             margin-left 10px;
         }
+       
+
+            
+
+        }
+        
+}
     </style>
 </head>
 <body>
