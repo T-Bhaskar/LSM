@@ -71,6 +71,7 @@
       <div class="facultyhead"><center><h3>Academic faculty</h3></center></div>
       
       <div class="facultybody">
+          <center>
           <div class="facultycard">
               <div class="facultyphoto"></div>
               <div class="facultyname"></div>
@@ -125,6 +126,7 @@
               
               
           </div>
+</center>
       </div>
 
   </div>  
