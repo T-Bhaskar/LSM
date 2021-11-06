@@ -8,8 +8,8 @@
 
     <div class="img-slider">
       <div class="slide active">
-        <img src="image/slider5.jpg" alt="" >
-        <div></h2>
+        <img src="image/slider3.jpg" alt="" >
+        <div><h2>lorem ipsum doller</h2>
       </div>
       </div>
       <div class="slide">
