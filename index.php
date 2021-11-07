@@ -14,6 +14,7 @@
 <div class = "content">
 <?php include "lib_inc/slider.php"; ?>
 <?php include "lib_inc/latestinfo.php" ?>
+<?php include "lib_inc/services.php" ?>
 <?php include "lib_inc/aboutschool.php" ; ?>
 <?php include "lib_inc/topers.php"; ?>
 <?php include "lib_inc/classfaculty.php" ;?>

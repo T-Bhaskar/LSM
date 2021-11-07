@@ -8,8 +8,8 @@
         .topercontainer{
             position: relative;
             margin-top:55px;
-            margin-left: 10%;
-            margin-right: 10%;
+            margin-left: 10px;
+            margin-right: 10px;
             
   padding: 10px;
   /* box-shadow: 5px 10px blue; */
