@@ -27,11 +27,12 @@ body {
   font-size: 17px;
   border-radius:5px;
   margin-top:5px;
+  margin-bottom:5px;
 }
 
 .topnav a:hover {
-  background-color: yellow;
-  color: black;
+  background-color: red;
+  color: #fff;
 }
 
 .topnav a.active {
