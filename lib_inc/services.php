@@ -17,9 +17,9 @@
   transition: 0.2s;
 
         }
-        .servicescontainer :hover{
+        /* .servicescontainer :hover{
             box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-        }
+        } */
         .servicescontainer .serviceshead{
             height:40px;
             width: 100%;
