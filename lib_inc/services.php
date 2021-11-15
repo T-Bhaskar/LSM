@@ -74,12 +74,12 @@
           <center>
           <div class="servicescard">
               <div class="servicesphoto"></div>
-              <div class="servicesname"></div>
+              <div class="servicesname">Result</div>
 
           </div>
           <div class="servicescard">
               <div class="servicesphoto"></div>
-              <div class="servicesname"></div>
+              <div class="servicesname">Exam</div>
               
           </div>
           <div class="servicescard">
